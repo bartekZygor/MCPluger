@@ -1,0 +1,10 @@
+C:\Users\skye\Desktop\JSpy\MCP\MCPluger\MCPluger\bin\Debug\MCPluger.exe.config
+C:\Users\skye\Desktop\JSpy\MCP\MCPluger\MCPluger\bin\Debug\MCPluger.exe
+C:\Users\skye\Desktop\JSpy\MCP\MCPluger\MCPluger\bin\Debug\MCPluger.pdb
+C:\Users\skye\Desktop\JSpy\MCP\MCPluger\MCPluger\obj\Debug\MCPluger.csproj.AssemblyReference.cache
+C:\Users\skye\Desktop\JSpy\MCP\MCPluger\MCPluger\obj\Debug\MCPluger.Form1.resources
+C:\Users\skye\Desktop\JSpy\MCP\MCPluger\MCPluger\obj\Debug\MCPluger.Properties.Resources.resources
+C:\Users\skye\Desktop\JSpy\MCP\MCPluger\MCPluger\obj\Debug\MCPluger.csproj.GenerateResource.cache
+C:\Users\skye\Desktop\JSpy\MCP\MCPluger\MCPluger\obj\Debug\MCPluger.csproj.CoreCompileInputs.cache
+C:\Users\skye\Desktop\JSpy\MCP\MCPluger\MCPluger\obj\Debug\MCPluger.exe
+C:\Users\skye\Desktop\JSpy\MCP\MCPluger\MCPluger\obj\Debug\MCPluger.pdb
