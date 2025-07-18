@@ -4,6 +4,7 @@
 
 ```json
 {
-  "dana" : "text"
+  "dana" : "text",
+  "imie": "cos"
 }
 ```
